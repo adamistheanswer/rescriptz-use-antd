@@ -1,5 +1,5 @@
 {
-  "name": "rescriptz-use-antd",
+  "name": "@adamistheanswer/rescript-use-antd",
   "version": "0.0.3",
   "description": "Use antd in create-react-app with tree shaking and theme support",
   "scripts": {
@@ -26,5 +26,11 @@
     "babel-plugin-import": "^1.12.2",
     "less": "4.1.1",
     "less-loader": "^7.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/RcKeller/rescripts/issues"
+  },
+  "directories": {
+    "example": "example"
   }
 }
