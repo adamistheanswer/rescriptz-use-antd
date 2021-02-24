@@ -1,6 +1,6 @@
 {
   "name": "@adamistheanswer/rescript-use-antd",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Use antd in create-react-app with tree shaking and theme support",
   "scripts": {
     "start": "react-scripts start",
@@ -20,7 +20,7 @@
   "license": "MIT",
   "homepage": "https://github.com/RcKeller/rescripts#readme",
   "peerDependencies": {
-    "@rescripts/cli": "^0.0.16",
+    "@rescripts/cli": "^0.0.12",
     "@rescripts/rescript-use-babel-config": "^0.0.12",
     "@rescripts/utilities": "0.0.8",
     "babel-plugin-import": "^1.12.2",
