@@ -1,5 +1,5 @@
 {
-  "name": "rescript-use-antd",
+  "name": "rescriptz-use-antd",
   "version": "0.0.3",
   "description": "Use antd in create-react-app with tree shaking and theme support",
   "scripts": {
